@@ -14,11 +14,20 @@ Ressources for the CG Pipeline workshop
 * [Flow based programming](https://en.wikipedia.org/wiki/Flow-based_programming)
 * [nodes.io/story](https://nodes.io/story) 
 
+### CG & VFX
+
+* [Gaffer](https://www.gafferhq.org/) - Open-source, node-based VFX application for look developement
+
+### python
+
+* [NXT](https://nxt-dev.github.io/) - Layered code compositing application
+* [Mangrove](https://opensource.theyard-vfx.com/mangrove) - Open-source, VFX Framework to build production workflows (currently refactoring)
+* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph framework for PySide2
 
 ### JS
 
 * [Node red](https://nodered.org)
-* [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript
+* [litegraph.js](https://github.com/jagenjo/litegraph.js) - Graph node engine and editor written in Javascript
 * 
 
 ### TS
