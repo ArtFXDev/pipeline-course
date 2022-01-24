@@ -2,13 +2,14 @@
 
 Ressources for the CG Pipeline workshop
 
+###
 ## References
 
 * [Awesome CG / VFX Pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) - List of open-source technologies for the CG or VFX pipeline
 * [VFX Reference Platform](http://vfxplatform.com/)
 * [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams. 
-
-
+  
+###   
 ## Node based tools and frameworks
 
 ### Theory
@@ -41,8 +42,11 @@ Ressources for the CG Pipeline workshop
 * [n8n.io](https://n8n.io/) - Extendable workflow automation ("fair license" Apache 2.0 with Commons Clause)
 * [Rete.js](https://rete.js.org) - Framework for visual programming and creating node editor
 
+###    
+## Virtual Production
 
-## 
-
+* [The Virtual Production Glossary](https://www.vpglossary.com/)
+* [VES Virtual Production Ressources](https://www.visualeffectssociety.com/virtual-production-resources) 
+* [PIDS 2021 - Production Virtuelle](https://www.3dvf.com/pids-2021-production-virtuelle-ecrans-leds-quelles-consequences-sur-les-metiers-du-tournage) - Conference about VP [FR|video]   
 
 
