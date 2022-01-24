@@ -2,9 +2,11 @@
 
 Ressources for the CG Pipeline workshop
 
-## General
+## References
 
 * [Awesome CG / VFX Pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) - List of open-source technologies for the CG or VFX pipeline
+* [VFX Reference Platform](http://vfxplatform.com/)
+* [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams. 
 
 
 ## Node based tools and frameworks
@@ -16,7 +18,8 @@ Ressources for the CG Pipeline workshop
 
 ### CG & VFX
 
-* [Gaffer](https://www.gafferhq.org/) - Open-source, node-based VFX application for look developement
+* [Shift](https://www.linkedin.com/company/inbibo-ltd/videos/) - Beta and closed source, but interresting / promissing "Nodebased Workflow Authoring Automation"  
+* [Gaffer](https://www.gafferhq.org/) - Open-source, node-based VFX application for look developement  
 * [Mangrove](https://opensource.theyard-vfx.com/mangrove) - Open-source, VFX Framework to build production workflows (python/Qt currently refactoring)
 
 ### python
@@ -39,6 +42,7 @@ Ressources for the CG Pipeline workshop
 * [Rete.js](https://rete.js.org) - Framework for visual programming and creating node editor
 
 
-## References
+## 
 
-* [VFX Reference Platform](http://vfxplatform.com/)
+
+
