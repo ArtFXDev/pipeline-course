@@ -15,6 +15,7 @@ Ressources for the CG Pipeline workshop
 * [Blue Sky Studio Technology blog](https://medium.com/blue-sky-tech-blog) - Great articles about the Blue Sky Pipeline, including ["Naming"](https://medium.com/blue-sky-tech-blog/non-noxious-nomenclature-977a173c6826), [Gamification in QC](https://medium.com/blue-sky-tech-blog/introducing-achievements-into-qc-6fee943324df), and [Web Service Techs](https://medium.com/blue-sky-tech-blog/conduit-services-archetype-598d4fa316e9)
 * [realpython.com](https://realpython.com/) - High quality, understandable, in-depth Python tutorials, from beginner to advanced level.
   Video tutorials are for paid-members, but there are many free written tutorials.
+  For example: [generators](https://realpython.com/introduction-to-python-generators/), [refactoring](https://realpython.com/python-refactoring/), [rest](https://realpython.com/api-integration-in-python/), [concurrency](https://realpython.com/python-concurrency/)
   
 ###   
 ## Node based tools and frameworks
@@ -49,6 +50,10 @@ Ressources for the CG Pipeline workshop
 
 * [n8n.io](https://n8n.io/) - Extendable workflow automation ("fair license" Apache 2.0 with Commons Clause)
 * [Rete.js](https://rete.js.org) - Framework for visual programming and creating node editor
+
+### C++
+
+* [Kirpi](https://www.youtube.com/channel/UCHOWmmBJbFg31C7ObE8aALg/videos) - C++ Visual Programming editor for DCCs
 
 ### Dot Language
 
