@@ -9,6 +9,13 @@ Ressources for the CG Pipeline workshop
 * [VFX Reference Platform](http://vfxplatform.com/)
 * [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams. 
   
+###
+## Inspiring Pipeline reads
+
+* [Blue Sky Studio Technology blog](https://medium.com/blue-sky-tech-blog) - Great articles about the Blue Sky Pipeline, including ["Naming"](https://medium.com/blue-sky-tech-blog/non-noxious-nomenclature-977a173c6826), [Gamification in QC](https://medium.com/blue-sky-tech-blog/introducing-achievements-into-qc-6fee943324df), and [Web Service Techs](https://medium.com/blue-sky-tech-blog/conduit-services-archetype-598d4fa316e9)
+* [realpython.com](https://realpython.com/) - High quality, understandable, in-depth Python tutorials, from beginner to advanced level.
+  Video tutorials are for paid-members, but there are many free written tutorials.
+  
 ###   
 ## Node based tools and frameworks
 
