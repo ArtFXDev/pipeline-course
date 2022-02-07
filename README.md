@@ -33,6 +33,7 @@ Ressources for the CG Pipeline workshop
 
 ### python
 
+* [dagster.io](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 * [NXT](https://nxt-dev.github.io/) - Layered code compositing application
 * [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph framework for PySide2
 * [mfessenden/SceneGraph](https://github.com/mfessenden/SceneGraph) - Node graph framework for PySide (using NetworkX)
