@@ -19,6 +19,17 @@ Ressources for the CG Pipeline workshop
   For example: [generators](https://realpython.com/introduction-to-python-generators/), [refactoring](https://realpython.com/python-refactoring/), [rest](https://realpython.com/api-integration-in-python/), [concurrency](https://realpython.com/python-concurrency/)
   
 ###   
+## Coding in DCCs
+
+### Maya
+* [Beginning Python for Maya](https://zurbrigg.com/tutorials/beginning-python-for-maya) - Free beginner video tutorial on scripting with maya.cmds
+* [Pymel Tutorial](https://www.tokeru.com/cgwiki/index.php?title=PymelTutorial) - Basic nice pymel turorial (on the legendary Matt Estela Cgwiki)
+
+### Houdini
+* [Houdini CGwiki Getting started](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted) - Very well done and famous Wiki about Houdini
+* [Python in Houdini by Deborah Fowler](https://www.deborahrfowler.com/PythonResources/PythonInHoudini.html)
+ 
+###   
 ## Node based tools and frameworks
 
 ### Theory
