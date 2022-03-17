@@ -18,6 +18,10 @@ Ressources for the CG Pipeline workshop
   Video tutorials are for paid-members, but there are many free written tutorials.
   For example: [generators](https://realpython.com/introduction-to-python-generators/), [refactoring](https://realpython.com/python-refactoring/), [rest](https://realpython.com/api-integration-in-python/), [concurrency](https://realpython.com/python-concurrency/)
   
+###
+## Pipeline videos
+* [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (french)
+  
 ###   
 ## Coding in DCCs
 
