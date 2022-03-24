@@ -20,7 +20,8 @@ Ressources for the CG Pipeline workshop
   
 ###
 ## Pipeline videos
-* [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (french)
+* [SIGGRAPH University : "The Digital Production Pipeline"](https://www.youtube.com/watch?v=I9ql13bEzmc) - Big studios (MPC, Dreaworks, Sony Pictures) talk about their pipelines (2013) 
+* [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (2021, french)
   
 ###   
 ## Coding in DCCs
