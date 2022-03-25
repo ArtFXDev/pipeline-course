@@ -12,7 +12,7 @@ Ressources for the CG Pipeline workshop
 ###
 ## Pipeline reads
 
-* [CG & VFX Pipeline Course Slides](https://docs.google.com/presentation/d/1hKqBBAoo_r4z3aoC0Qt1qGz_tu-JjcBlWfH307XMtP4/edit?usp=sharing) - Slides for the pipeline course (limited to ArtFX)
+* [CG & VFX Pipeline Course Slides](https://docs.google.com/presentation/d/1hKqBBAoo_r4z3aoC0Qt1qGz_tu-JjcBlWfH307XMtP4/edit?usp=sharing) - Slides for the pipeline course *(limited to ArtFX)*
 * [Blue Sky Studio Technology blog](https://medium.com/blue-sky-tech-blog) - Great articles about the Blue Sky Pipeline, including ["Naming"](https://medium.com/blue-sky-tech-blog/non-noxious-nomenclature-977a173c6826), [Gamification in QC](https://medium.com/blue-sky-tech-blog/introducing-achievements-into-qc-6fee943324df), and [Web Service Techs](https://medium.com/blue-sky-tech-blog/conduit-services-archetype-598d4fa316e9)
 * [realpython.com](https://realpython.com/) - High quality, understandable, in-depth Python tutorials, from beginner to advanced level.
   Video tutorials are for paid-members, but there are many free written tutorials.
@@ -23,6 +23,7 @@ Ressources for the CG Pipeline workshop
 * [SIGGRAPH University : "The Digital Production Pipeline"](https://www.youtube.com/watch?v=I9ql13bEzmc) - Big studios (MPC, Dreaworks, Sony Pictures) talk about their pipelines (2013) 
 * [The Pipeline Conference](https://www.youtube.com/channel/UCHbWFxSt5SgLgVarknHJnLg) - The Pipeline Conference Youtube Channel
 * [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (2021, french)
+* [Pipeline tech talks](https://drive.google.com/drive/folders/1yJjJR4FpczQ55XRc_7oYOjRh7ICC49QW?usp=sharing) - Videos and PDFs (2019-2021) *(limited to ArtFX for Copyright reasons)*
   
 ###   
 ## Coding in DCCs
