@@ -24,7 +24,15 @@ Ressources for the CG Pipeline workshop
 * [The Pipeline Conference](https://www.youtube.com/channel/UCHbWFxSt5SgLgVarknHJnLg) - The Pipeline Conference Youtube Channel
 * [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (2021, french)
 * [Pipeline tech talks](https://drive.google.com/drive/folders/1yJjJR4FpczQ55XRc_7oYOjRh7ICC49QW?usp=sharing) - Videos and PDFs (2019-2021) *(limited to ArtFX for Copyright reasons)*
-  
+
+###   
+## Tools  
+
+* [rez](https://github.com/nerdvegas/rez) - Package configuration, build and deployment system for software 
+* [Scoop](https://scoop.sh/) - command-line installer for Windows 
+(type `scoop bucket add versions` and `scoop install python37` to install Python 3.7) 
+
+
 ###   
 ## Coding in DCCs
 
@@ -46,5 +54,7 @@ Ressources for the CG Pipeline workshop
 ## Practice  
 
 * [Relational database with SQLite](rdb_sql.md) 
+
+
 
 
