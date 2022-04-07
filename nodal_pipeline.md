@@ -11,6 +11,7 @@
 * [Shift](https://www.linkedin.com/company/inbibo-ltd/videos/) - Beta and closed source, but interresting / inspiring "Nodebased Workflow Authoring Automation"  
 * [Gaffer](https://www.gafferhq.org/) - Open-source, node-based VFX application for look developement  
 * [Mangrove](https://opensource.theyard-vfx.com/mangrove) - Open-source, VFX Framework to build production workflows (python/Qt currently refactoring)
+* [Blender](https://code.blender.org/2021/07/nodes-workshop-june-2021/) - Nodes implementation in process
 
 ### python
 
