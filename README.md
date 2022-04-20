@@ -32,6 +32,8 @@ Ressources for the CG Pipeline workshop
 * [Scoop](https://scoop.sh/) - command-line installer for Windows 
 (type `scoop bucket add versions` and `scoop install python37` to install Python 3.7) 
 
+### Utilities
+* [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 
 ###   
 ## Coding in DCCs
