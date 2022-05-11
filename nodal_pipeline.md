@@ -23,6 +23,7 @@
 * [Nodz](https://github.com/Golaem/Nodz) - Simple Python library to create nodes based graphs
 * [NetworkX](https://networkx.org/documentation/latest/index.html) - Open source network handling library
 * [PyDot](https://github.com/pydot/pydot) - Python interface to Graphviz's Dot language (and translation to/from NetworkX)
+* [PyFlow](https://github.com/Bycelium/PyFlow) - Open-source tool for visual and modular block programming in python
 
 ### JS
 
