@@ -24,6 +24,9 @@
 * [NetworkX](https://networkx.org/documentation/latest/index.html) - Open source network handling library
 * [PyDot](https://github.com/pydot/pydot) - Python interface to Graphviz's Dot language (and translation to/from NetworkX)
 * [PyFlow](https://github.com/Bycelium/PyFlow) - Open-source tool for visual and modular block programming in python
+* [sisoe24/NodeEditor](https://github.com/sisoe24/NodeEditor) -  WIP project to create a nodal scripting framework in Python using PySide2
+* [pyqt-node-editor](https://gitlab.com/pavel.krupala/pyqt-node-editor) - Node editor in Python using PyQt5
+* [Node Editor Tutorial Series](https://www.blenderfreak.com/tutorials/node-editor-tutorial-series) -  Series on creating a Node Editor using PyQt5 in Python
 
 ### JS
 
