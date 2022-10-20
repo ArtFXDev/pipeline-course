@@ -56,6 +56,7 @@ Ressources for the CG Pipeline workshop
 ## Practice  
 
 * [Relational database with SQLite](rdb_sql.md) 
+* [Creating a "Level One Pipeline"](pipeline_level_one.md)
 
 
 
