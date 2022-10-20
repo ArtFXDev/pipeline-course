@@ -43,7 +43,7 @@ Ressources for the CG Pipeline workshop
 * [Pymel Tutorial](https://www.tokeru.com/cgwiki/index.php?title=PymelTutorial) - Basic nice pymel turorial (on the legendary Matt Estela Cgwiki)
 
 ### Houdini
-* [Houdini CGwiki Getting started](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted) - Very well done and famous Wiki about Houdini
+* [Houdini Python on the Tokeru CGwiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniPython) - Very well done and famous Wiki about Houdini
 * [Side FX python-scripting video tutorial](https://www.sidefx.com/tutorials/python-scripting)
 * [Python in Houdini by Deborah Fowler](https://www.deborahrfowler.com/PythonResources/PythonInHoudini.html)
    
