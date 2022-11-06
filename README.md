@@ -23,6 +23,7 @@ Ressources for the CG Pipeline workshop
 * [SIGGRAPH University : "The Digital Production Pipeline"](https://www.youtube.com/watch?v=I9ql13bEzmc) - Big studios (MPC, Dreaworks, Sony Pictures) talk about their pipelines (2013) 
 * [The Pipeline Conference](https://www.youtube.com/channel/UCHbWFxSt5SgLgVarknHJnLg) - The Pipeline Conference Youtube Channel
 * [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (2021, french)
+* [Blender/Ftrack custom Pipeline](https://www.youtube.com/watch?v=8AZezducjPc) - Talk about Real by Fake's pipeline, by Robert Rioux
 * [Pipeline tech talks](https://drive.google.com/drive/folders/1yJjJR4FpczQ55XRc_7oYOjRh7ICC49QW?usp=sharing) - Videos and PDFs (2019-2021) *(limited to ArtFX for Copyright reasons)*
 
 ###   
