@@ -76,10 +76,11 @@ Possible backends:
 - [CGwire Kitsu](https://www.cg-wire.com) - Open source CG project manager, for small to medium sized studios
 - Custom relational database - See [Relational database with SQLite](rdb_sql.md) 
 
-We start with [Shotgrid](https://developer.shotgridsoftware.com/python-api).
-*(Tip: use `sg.schema_entity_read()` to get the data schema)*
+We start with [Shotgrid](https://developer.shotgridsoftware.com/python-api).  
+See Admin [getting started](https://help.autodesk.com/view/SGSUB/ENU/?guid=SG_Administrator_ar_get_started_html) and [Schema](https://help.autodesk.com/view/SGSUB/ENU/?guid=SG_Administrator_ar_get_started_ar_shotgun_schema_html)  
+*(Tip: use `sg.schema_entity_read()` to get the data schema)*  
 
-## Common API
+### Common API
 
 We create APIs to encapsulate (abstract) the backend(s) and file system, to use them as data sources for Entities.  
 On top of these, a common API offers a unified access to the Entities. 
