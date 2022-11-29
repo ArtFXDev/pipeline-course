@@ -26,7 +26,8 @@ Ressources for the CG Pipeline workshop
 * [Meetup Fortiche Pipeline](https://www.youtube.com/watch?v=CXyxaXGsjfQ) - Presentation of the Fortiche Pipeline (2021, french)
 * [Blender/Ftrack custom Pipeline](https://www.youtube.com/watch?v=8AZezducjPc) - Talk about Real by Fake's pipeline, by Robert Rioux (2022)
 * [Pipeline tech talks](https://drive.google.com/drive/folders/1yJjJR4FpczQ55XRc_7oYOjRh7ICC49QW?usp=sharing) - Videos and PDFs (2019-2021) *(limited to ArtFX for Copyright reasons)*
-* [USD in a game pipeline](https://www.youtube.com/watch?v=FI2pyzTOvaQ) - Presentation of the new Remedy USD pipeline
+* [USD in a game pipeline](https://www.youtube.com/watch?v=FI2pyzTOvaQ) - Presentation of the Remedy USD pipeline (2022)
+* [USD in Prism Pipeline 2.0](https://vimeo.com/551545616) - Presentation of Prism Pipeline Tool at FMX (2021) 
 
 ###   
 ## Tools  
