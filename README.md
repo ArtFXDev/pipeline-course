@@ -67,6 +67,7 @@ Ressources for the CG Pipeline workshop
 
 * [Nodal Pipeline](nodal_pipeline.md)
 * [Virtual Production](virtual_production.md)
+* [USD](usd.md)
 
 
 ## Practice  
