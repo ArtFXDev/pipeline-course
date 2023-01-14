@@ -63,6 +63,7 @@ Ressources for the CG Pipeline workshop
 * [concurrency](https://realpython.com/python-concurrency)
 * [refactoring](https://realpython.com/python-refactoring) 
 * [rest](https://realpython.com/api-integration-in-python) 
+* [microservices](https://realpython.com/python-microservices-grpc)
 * [mongo db](https://realpython.com/introduction-to-mongodb-and-python)
 * [documentation](https://realpython.com/documenting-python-code)
 
