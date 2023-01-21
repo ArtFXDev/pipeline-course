@@ -12,6 +12,8 @@
 
 ## Design Patterns
 
+[10 common patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+
 ### Factory
 ### Layer 
 
