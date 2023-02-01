@@ -46,7 +46,7 @@ Ressources for the CG Pipeline workshop
 ## Coding in DCCs
 
 ### Maya
-* [Beginning Python for Maya](https://zurbrigg.com/tutorials/beginning-python-for-maya) - Free beginner video tutorial on scripting with maya.cmds
+* [Beginning Python for Maya](https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1) - Free beginner video tutorial on scripting with maya.cmds
 * [Pymel Tutorial](https://www.tokeru.com/cgwiki/index.php?title=PymelTutorial) - Basic nice pymel turorial (on the legendary Matt Estela Cgwiki)
 
 ### Houdini
