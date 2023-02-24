@@ -63,7 +63,7 @@ for worker in sorted(workers):
 * [Rest API](https://docs.thinkboxsoftware.com/products/deadline/10.1/1_User%20Manual/manual/rest-overview.html)  
 * [Realpython : consuming a Rest API](https://realpython.com/api-integration-in-python/#rest-and-python-consuming-apis)
 
-Note: the REST API is wrapped by the "Python Standalone API" (see below)
+Note: the REST API is wrapped by the "Python Standalone API" (see above)
 
 ### REST used in python
 
