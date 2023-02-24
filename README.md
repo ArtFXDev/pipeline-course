@@ -82,5 +82,10 @@ Ressources for the CG Pipeline workshop
 * [Creating a Pipeline](pipeline_level_one.md)
 
 
+## Memos
+
+* [Deadline](memos/deadline.md)
+
+
 
 
