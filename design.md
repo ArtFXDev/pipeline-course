@@ -9,6 +9,12 @@
 
 ### Single level of abstraction
 
+## OOP
+
+### "Solid"
+
+* [Single responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+
 
 ## Design Patterns
 
