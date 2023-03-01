@@ -89,6 +89,7 @@ Ressources for the CG Pipeline workshop
 ## Memos
 
 * [Deadline](memos/deadline.md)
+* [Docker](memos/docker.md)
 
 
 
