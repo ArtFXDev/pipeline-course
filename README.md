@@ -90,6 +90,8 @@ Ressources for the CG Pipeline workshop
 
 * [Deadline](memos/deadline.md)
 * [Docker](memos/docker.md)
+* [Arnold API](memos/arnold_api.md)
+
 
 
 
