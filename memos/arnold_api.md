@@ -35,16 +35,16 @@ import os
 
 path = Path("//path/testpipe/shots/s01/p010/lighting_main/publish/v000/ass/main/renderSetupLayer1__test")
 
-AiBegin()
+for ass_file in list(path.glob("*.ass"))[:]:
 
-AiMsgSetConsoleFlags(AI_LOG_ALL)
-AiLoadPlugins(os.getenv('ARNOLD_PLUGIN_PATH'))
-# universe = AiUniverse()
+    AiBegin()
 
-# getting ass options
-options = AiUniverseGetOptions()
+    AiMsgSetConsoleFlags(AI_LOG_ALL)
+    AiLoadPlugins(os.getenv('ARNOLD_PLUGIN_PATH'))
+    # universe = AiUniverse()
 
-for ass_file in path.glob("*.ass"):
+    # getting ass options
+    options = AiUniverseGetOptions()
 
     print(f"Handling {ass_file.name}")
 
@@ -62,10 +62,11 @@ for ass_file in path.glob("*.ass"):
     # color_manager_node = AiNodeLookUpByName("defaultColorMgtGlobals")
 
     # updating the node
-    AiNodeSetStr(color_manager_node, "config", "//path/aces/1.2/config.ocio")
+    AiNodeSetStr(color_manager_node, "config", "//path/rez/packages/tools/aces/1.2/config.ocio")
 
     # write updated ass file
     AiASSWrite(ass_file, AI_NODE_ALL)
 
-AiEnd()
+    AiEnd()
+
 ```
