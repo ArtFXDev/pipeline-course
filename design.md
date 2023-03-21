@@ -38,3 +38,6 @@ The goal is to reduce the ambiguity of communication.
 ## Misc
 
 "Customers rarely know what they want until they see it."
+
+
+https://en.wikipedia.org/wiki/Convention_over_configuration 
