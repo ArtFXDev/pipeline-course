@@ -2,7 +2,8 @@
 
 ## Manuals 
 
-* [Home](https://docs.thinkboxsoftware.com/products/deadline/10.1/1_User%20Manual/index.html)
+* [Documentation Home](https://docs.thinkboxsoftware.com/products/deadline/10.1/1_User%20Manual/index.html)
+* [Manual Job Submission documentation](https://docs.thinkboxsoftware.com/products/deadline/10.1/1_User%20Manual/manual/manual-submission.html)
 
 ## Scripting
 
