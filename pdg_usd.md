@@ -6,6 +6,7 @@ Notes, ressources & memos
 ## PDG Nodal pipeline
 
 * https://www.sidefx.com/learn/pipeline-pdg
+* https://www.tokeru.com/cgwiki/HoudiniTops
 * [PDG Core concepts](https://www.sidefx.com/tutorials/pdg-core-concepts) - masterclass, 70 mn, 2019
 * [PDG as a Pipeline Tool for Small Teams | Pavel Smirnov | SIGGRAPH 2019](https://www.youtube.com/watch?v=t0bhiCoDR8M) - 50 mn, 2019
 
