@@ -50,6 +50,7 @@ Ressources for the CG Pipeline workshop
 ## Coding in DCCs
 
 ### Maya
+* [Python in maya overview: cmds, pymel, openmaya](https://forums.autodesk.com/t5/maya-programming/python-highlevel-intro-to-python-in-maya-cmds-pymel-openmaya-1-0/td-p/9682946) - Short video with clear overview of the python scripting APIs
 * [Beginning Python for Maya](https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1) - Free beginner video tutorial on scripting with maya.cmds
 * [Pymel Tutorial](https://www.tokeru.com/cgwiki/index.php?title=PymelTutorial) - Basic nice pymel turorial (on the legendary Matt Estela Cgwiki)
 
