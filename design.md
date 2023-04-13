@@ -37,7 +37,8 @@ The goal is to reduce the ambiguity of communication.
 
 ## Misc
 
-"Customers rarely know what they want until they see it."
+* "Customers rarely know what they want until they see it."
 
+* https://en.wikipedia.org/wiki/Convention_over_configuration 
 
-https://en.wikipedia.org/wiki/Convention_over_configuration 
+* [Software Engineering Principles with Titus Winters](https://www.youtube.com/watch?v=SqU8TZDnFFA) - Software engineering at Google & three key principles Time, Scale, and Tradeoffs. From “Software Engineering at Google” (aka “The Flamingo Book”),  published by O’Reilly in early 2020.
