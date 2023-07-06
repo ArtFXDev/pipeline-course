@@ -15,4 +15,7 @@
 ## Tips & Tricks
 
 - Create a new unrelated repo from an existing one (and given branch), keeping history:  
-https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo
+  https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo
+
+- Pushing a feature branch after a git rebase  
+  https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase
