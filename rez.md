@@ -15,6 +15,7 @@
 - [Another way to test packages in dev stage](https://github.com/AcademySoftwareFoundation/rez/issues/1263)
 - [Problem with version sorting](https://github.com/AcademySoftwareFoundation/rez/issues/653)
 - [Chat about CI/CD & rez](https://groups.google.com/g/rez-config/c/1up7umZXpI4/m/CcmxeC-VBgAJ)
+- [C++ package handling](https://lists.aswf.io/g/tac/message/351)
 
 
 ## Features and evolution
