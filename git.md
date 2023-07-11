@@ -8,6 +8,11 @@
 - [Github FLow](https://docs.github.com/en/get-started/quickstart/github-flow) - Github Flow
 - [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - Gitlab flow, and list of other models
 
+## Tagging 
+
+- https://medium.com/@keshshen/lets-start-tagging-88c299b6b331
+- https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
+
 ## Commands
 
 - [Most common commands](https://www.gitkraken.com/learn/git/commands)
