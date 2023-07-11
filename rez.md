@@ -13,7 +13,8 @@
 
 ## Discussions
 - [Another way to test packages in dev stage](https://github.com/AcademySoftwareFoundation/rez/issues/1263)
-- [Problem with version sorting](https://github.com/AcademySoftwareFoundation/rez/issues/653) 
+- [Problem with version sorting](https://github.com/AcademySoftwareFoundation/rez/issues/653)
+- [Chat about CI/CD & rez](https://groups.google.com/g/rez-config/c/1up7umZXpI4/m/CcmxeC-VBgAJ)
 
 
 ## Features and evolution
@@ -36,4 +37,5 @@ https://github.com/ColinKennedy/rez-scripts
 
 - [PEP440](https://www.python.org/dev/peps/pep-0440)
 - [semver](https://semver.org)
+- [Rez version sorting](https://github.com/AcademySoftwareFoundation/rez/wiki/Basic-Concepts#versions)
 
