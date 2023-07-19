@@ -17,6 +17,9 @@
 - [Chat about CI/CD & rez](https://groups.google.com/g/rez-config/c/1up7umZXpI4/m/CcmxeC-VBgAJ)
 - [C++ package handling](https://lists.aswf.io/g/tac/message/351)
 
+- Rez & Docker
+https://groups.google.com/g/rez-config/c/SHxFagCLWCc 
+https://groups.google.com/g/rez-config/c/2rTboQoH2UM
 
 ## Features and evolution
 
