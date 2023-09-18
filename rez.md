@@ -10,6 +10,7 @@
 
 - [Rez BOF](https://www.youtube.com/watch?v=y5VSPeeqJbM) - Siggraph, 2019
 - [Isolated Rez environments for developers](https://www.youtube.com/watch?v=rPe6JpzE_Nc) - Video, Colin Kennedy, 2022
+- [Open Source days Virtual Town Hall](https://www.youtube.com/watch?v=lUWwPCkBre4) - Video talk, ASWF, 2023
 
 ## Discussions
 - [Another way to test packages in dev stage](https://github.com/AcademySoftwareFoundation/rez/issues/1263)
