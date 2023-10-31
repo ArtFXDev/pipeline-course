@@ -15,6 +15,7 @@
 ## With office in Montpellier
 
 * [Corsaires VFX](https://corsaires-vfx.com) - (*To be confirmed*)
+* [Supamonks](https://www.supamonks.com) - (*To be confirmed*)
 * [Fortiche](https://www.forticheprod.com) - French creative, animation and production company (201-500) (*Montpellier office for animation*)
 * [Karlab](https://www.karlab.fr) - The digital character specialists (11-50)  
 * [Mathematic](https://mathematic.tv) - Paris / Montreal post production and motion design studio (51-200)  
