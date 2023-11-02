@@ -24,3 +24,6 @@
 
 - Pushing a feature branch after a git rebase  
   https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase
+
+- If a clone shows all files as changed with only line endings, add `git config --global core.autocrlf true` (on windows), and/or read:
+  https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
