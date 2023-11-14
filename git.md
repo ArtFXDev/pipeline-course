@@ -27,3 +27,6 @@
 
 - If a clone shows all files as changed with only line endings, add `git config --global core.autocrlf true` (on windows), and/or read:
   https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
+  
+- Properly fork a repo  
+  https://gist.github.com/Chaser324/ce0505fbed06b947d962
