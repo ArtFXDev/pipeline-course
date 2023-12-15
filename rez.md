@@ -36,6 +36,10 @@ https://github.com/ColinKennedy/rez-scripts
 - Example of rez package with OpenEXR build  
   https://github.com/UTS-AnimalLogicAcademy/open-source-rez-packages/tree/master/openexr/2.2.0
 
+## Alternatives
+
+- [Spack](https://dev.to/chadrik/using-spack-to-build-the-vfx-refence-platform-5788)
+
 ## Notes
 
 ### Notes on versioning
