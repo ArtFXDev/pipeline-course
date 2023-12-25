@@ -1,6 +1,8 @@
-# Design
+# Design & Architecture
 
 *This page is work in progress.*
+
+Its easy to assemble. Its hard to separate. 
 
 
 ## Mantras
@@ -23,7 +25,9 @@
 ### Factory
 ### Layer 
 
+## Architecture
 
+[https://awesome-architecture.com/](https://awesome-architecture.com)
 
 ## Ubiquitous language
 
