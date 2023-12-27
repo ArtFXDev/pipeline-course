@@ -1,4 +1,4 @@
-# Design & Architecture
+# Quality, Architecture & Design
 
 *This page is work in progress.*
 
@@ -46,3 +46,7 @@ The goal is to reduce the ambiguity of communication.
 * https://en.wikipedia.org/wiki/Convention_over_configuration 
 
 * [Software Engineering Principles with Titus Winters](https://www.youtube.com/watch?v=SqU8TZDnFFA) - Software engineering at Google & three key principles Time, Scale, and Tradeoffs. From “Software Engineering at Google” (aka “The Flamingo Book”),  published by O’Reilly in early 2020.
+
+
+Code Quality
+* [Google python style guide](https://google.github.io/styleguide/pyguide.html)
