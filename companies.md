@@ -9,7 +9,8 @@
 * [Menhir FX](https://menhirfx.com) - Independent 2D / 3D animation studio (14)
 * [Nobody Studio](https://nobody-studio.com) - Assets | Lighting | Compositing | CG supervision | Full Projects (14)
 * [Les Tontons Truqueurs](https://www.lestontonstruqueurs.com) - Real-Time On set VFX (11-50)  
-* [Rooftop Production](https://rooftop-production.com) - 3D animation services (2-10)  
+* [Rooftop Production](https://rooftop-production.com) - 3D animation services (2-10)
+* [Chillout Studio](https://chilloutanimation.com) - French Creative Studio in 3D Animation & VFX (15)
 
 
 ## With office in Montpellier
