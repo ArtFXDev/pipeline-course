@@ -3,6 +3,12 @@
 Ressources for the CG Pipeline workshop
 
 ###
+## Intro
+* [Animation Film making process by Disney Animation](https://disneyanimation.com/process) - Overview of the complete proceess
+* [Pipeline by Illumination](https://www.illuminationstudiosparis.com/pipeline) - Animation pipeline in one big picture
+* [Les métiers du cinéma d'animation](https://www.youtube.com/watch?v=pucgL9I6Me4) - Animation pipeline explained in a 2 minutes animation video (french)
+
+###
 ## References
 
 * [Awesome CG / VFX Pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) - List of open-source technologies for the CG or VFX pipeline
