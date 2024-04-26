@@ -5,7 +5,7 @@
 * [USD Official documentation](https://graphics.pixar.com/usd/release/index.html) - Official Documentation from Pixar
 * [Academy Software Foundation USD Working Group](https://wiki.aswf.io/display/WGUSD) - Resources, references and discussions
 * [Learn USD](https://learnusd.github.io) - Online tutorial
-* [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/)
+* [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/) - Onboarding guide to USD for software developers and pipeline TDs
 * [USD-Hands-On-Guide ](https://github.com/MustafaJafar/USD-Hands-On-Guide) - Summary of USD guides and files from Houdini Solaris to introduce USD in a practical way
 * ["Book of USD"](https://remedy-entertainment.github.io/USDBook/index.html) - Getting started with USD (book by Remedy Entertainment) 
 * [Awesome USD](https://github.com/matiascodesal/awesome-usd) - USD resources and projects (github)
