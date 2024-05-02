@@ -77,7 +77,7 @@ Possible backends:
 - Custom relational database - See [Relational database with SQLite](rdb_sql.md) 
 
 We start with [Shotgrid](https://developer.shotgridsoftware.com/python-api).  
-See Admin [getting started](https://help.autodesk.com/view/SGSUB/ENU/?guid=SG_Administrator_ar_get_started_html) and [Schema](https://help.autodesk.com/view/SGSUB/ENU/?guid=SG_Administrator_ar_get_started_ar_shotgun_schema_html)  
+See Admin [getting started](https://help.autodesk.com/view/SGSUB/ENU/?guid=SG_Administrator_ar_get_started_html)  
 *(Tip: use `sg.schema_entity_read()` to get the data schema)*  
 
 ### Common API
