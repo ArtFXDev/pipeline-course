@@ -12,6 +12,7 @@
 * [Rooftop Production](http://rooftop-production.com) - 3D animation services (2-10)
 * [BoldBrush VFX](https://www.boldbrushvfx.com) - Art Direction and visual development services for the VFX industry (2-10)
 * [Motionorama](https://motionorama.com) - CREATIVE STUDIO ◇ MOTION DESIGN ◇ ANIMATION ◇ VFX (2-10)
+* [Band Originale](http://www.band-originale.com) - Société de production créative et innovante, spécialisée dans la publicité et les films (11-50)
 * [Illogic Studios](https://www.illogicstudios.com) - Creative house dedicated to high end CG animation for commercial, television and feature films (2-10)
 
 ## With office in Montpellier
