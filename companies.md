@@ -24,6 +24,7 @@
 * [Supamonks](https://www.supamonks.com) - 2D/3d animation for commercials, games trailers and TV series (51-200)
 * [Karlab](https://www.karlab.fr) - The digital character specialists (11-50)  
 
-# Institutions
+# Mingling
 
 * [Montpellier Images Animées](https://www.montpellier-images-animees.fr) - Associations de studios à Montpellier
+* [Les Jeudis de l'Anim](https://www.facebook.com/groups/lesjeudisdelanim) - Rencontres informelles mensuelles
