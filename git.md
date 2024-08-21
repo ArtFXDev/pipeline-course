@@ -8,6 +8,9 @@
 - [Github FLow](https://docs.github.com/en/get-started/quickstart/github-flow) - Github Flow
 - [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) - Gitlab flow, and list of other models
 
+See also
+- [git-tide](https://github.com/chadrik/git-tide) - Automated gitflow merge cycles with semantic versioning
+
 ## Tagging 
 
 - https://medium.com/@keshshen/lets-start-tagging-88c299b6b331
