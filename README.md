@@ -13,7 +13,8 @@ Ressources for the CG Pipeline workshop
 
 * [Awesome CG / VFX Pipeline](https://github.com/cgwire/awesome-cg-vfx-pipeline) - List of open-source technologies for the CG or VFX pipeline
 * [VFX Reference Platform](http://vfxplatform.com/)
-* [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams. 
+* [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams.
+* [Digital Production Example Library](https://github.com/DigitalProductionExampleLibrary) - A library of digital assets curated by the Academy Software Foundation
   
 ###
 ## Pipeline reads
