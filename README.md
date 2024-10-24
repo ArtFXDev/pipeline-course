@@ -15,6 +15,7 @@ Ressources for the CG Pipeline workshop
 * [VFX Reference Platform](http://vfxplatform.com/)
 * [MovieLabs Visual Language Project](https://movielabs.com/visual-language-specifications-resources/) - Standardized Visual Language to illustrate and share Creative Media Workflow diagrams.
 * [Digital Production Example Library](https://github.com/DigitalProductionExampleLibrary) - A library of digital assets curated by the Academy Software Foundation
+* [VFX Job Index](https://vfxjobsdescription.blogspot.com/2024/02/vfx-jobs.html) - Inventory of VFX professions, by the French section of the Visual Effect Society
   
 ###
 ## Pipeline reads
